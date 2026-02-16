@@ -28,3 +28,8 @@ To understand how transactions change over time, across different countries, and
 * Improve low-performing regions through targeted promotions and campaigns.
 * Optimize pricing and offers based on seasonal and monthly.
 * Use dashboards for real-time monitoring of transaction performance.
+
+Dashboard Preview:
+## 📊 Financial-Transaction-Performance-Analysis
+
+![assets/Financial-Transaction-Performance-Analysis.png](https://github.com/vsharma112/E-commerce-Sales-Analysis/blob/main/E-Commerce%20Sales%20Dashboard.png)
