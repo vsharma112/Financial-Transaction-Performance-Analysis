@@ -1,9 +1,11 @@
 # Financial-Transaction-Performance-Analysis
 
 From raw transaction data to powerful business insights 📊
+
 In this project, I analyzed trends across time, countries, and merchants to uncover growth opportunities, reduce failures, and support smarter financial decisions. A real-world example of how data transforms numbers into strategy.
 
 🎯 Project Objective
+
 To understand how transactions change over time, across different countries, and among various merchants. By identifying growth trends and performance gaps, this analysis helps businesses make smarter financial decisions and improve overall performance.
 
 ⚠️ Business Problems
