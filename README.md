@@ -32,4 +32,4 @@ To understand how transactions change over time, across different countries, and
 Dashboard Preview:
 ## 📊 Financial-Transaction-Performance-Analysis
 
-![assets/Financial-Transaction-Performance-Analysis.png](https://github.com/vsharma112/E-commerce-Sales-Analysis/blob/main/E-Commerce%20Sales%20Dashboard.png)
+![assets/Financial-Transaction-Performance-Analysis.png](https://github.com/vsharma112/Financial-Transaction-Performance-Analysis/blob/main/Financial%20Transaction%20Performance%20Dashboard.png)
